@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "responsive portfolio",
   "main": "dist/index.html",
-  "homepage": "https://yanndepps.github.io/yanndepps",
+  "homepage": "https://yanndepps.github.io/portfolio",
   "scripts": {
     "sass": "sass --watch scss:dist/css --no-source-map",
     "deploy": "gh-pages -d dist"
